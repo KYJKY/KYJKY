@@ -3,11 +3,7 @@
 
 
 <h1 align="center">👨‍🚀 Welcome  🛰︎</h1>
-- 🌱 <span>1997.06.12</span>
 
-- 📝 I regularly write articles on [https://velog.io/@sysout](https://velog.io/@sysout)
-
-- 📫 How to reach me **illulizer@gmail.com**
 
 ### Front-end
 ### Back-end
