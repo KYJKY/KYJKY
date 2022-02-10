@@ -3,7 +3,17 @@
 
 
 <h1 align="center">👨‍🚀 Welcome  🛰︎</h1>
+<p align="center">　　　　.　　　　　　  　🌠　　　   　. 　　　　　.　　　　　　　　　　　  . 　　　 　       ✦     </p>
+<p align="center">.　　　　　　　　.　　  　　　　  　 　　　　　　　　　　　.　　　　　.　　　　   　 ﾟ             　.        </p>
+<p align="center">　　　　✦　　　　　  　　　　    　. 　　　　　.　　　　　　🌕　*　　　　　　　　　　  . 　　　 　            </p>
+<p align="center">　　  　         　　. 　　　　   　 　　　.     　   　🚀　.　　　　　.　　　   　　　 .             　 ﾟ   </p>
+<p align="center">　　ﾟ　　　　　　　　  　　　　   　 　　　　.　　　　　　　　　　　　　　　　　.   　　　            　  　　　ﾟ</p>
+<p align="center"> 　　　　　　　ﾟ　　　 　　*　　   🛰︎　 　ﾟ　　　　🌎　　　　　　　　　　.　　　　　　　   　　  ﾟ          　   </p>
+<p align="center">.　　　　　　　　　　  　　　　   　 　　　　　　　　　　　　 ✦　　　　　　　　.　   　　             ﾟ　  　　   </p>
+<p align="center">　　　*　　　　　　  　ﾟ　　   　 　　　　.　　　　　　　　　　　　　　　　   　　            　  　　            </p>
+<p align="center">　　　.　　　　　　✦  　　　　　   *　 　　　　　　　　　　.　　　　　　　*　　　　　   　              　  　*　  </p>
 
+<br><br><br>
 <!--
 ### Front-end
 ### Back-end
