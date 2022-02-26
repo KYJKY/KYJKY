@@ -31,8 +31,6 @@
 <!--<img src="https://github-readme-stats.vercel.app/api?username=KYJKY&show_icons=true&locale=en&theme=radical" alt="KYJKY" />--> <br><br></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2028%20mins-blue)
-
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
