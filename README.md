@@ -14,7 +14,7 @@
 <p align="center">　　　*　　　　　　  　ﾟ　　   　 　　　　.　　　　　　　　　　　　　　　　   　　            　  　　            </p>
 <p align="center">　　　.　　　　　　✦  　　　　　   *　 　　　　　　　　　　.　　　　　　　*　　　　　   　              　  　*　  </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316vepr7x7ia45xvcuqyysvtmpfe&cover_image=true&theme=novatorem&bar_color=37bac3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=316vepr7x7ia45xvcuqyysvtmpfe&redirect=true)
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316vepr7x7ia45xvcuqyysvtmpfe&cover_image=true&theme=novatorem&bar_color=37bac3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=316vepr7x7ia45xvcuqyysvtmpfe&redirect=true)-->
 
 </h4>
 
