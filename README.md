@@ -42,7 +42,7 @@
 <!--<img src="https://github-readme-stats.vercel.app/api?username=KYJKY&show_icons=true&locale=en&theme=radical" alt="KYJKY" />--> <br><br></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2024%20mins-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
