@@ -18,10 +18,8 @@
 <br>
 <br>
 <br>
-  <br>
-  
-  
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316vepr7x7ia45xvcuqyysvtmpfe&cover_image=true&theme=novatorem&bar_color=37bac3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=316vepr7x7ia45xvcuqyysvtmpfe&redirect=true)-->
+<br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oxb6keygqygrc6riudse47js5m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </h4>
@@ -37,13 +35,6 @@
 <p align="left">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYJKY&show_icons=true&theme=tokyonight)
-
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KYJKY&show_icons=true&locale=en&layout=compact&theme=radical" alt="KYJKY" />-->
-<!--<img src="https://github-readme-stats.vercel.app/api?username=KYJKY&show_icons=true&locale=en&theme=radical" alt="KYJKY" />--> <br><br></p>
-
-
-
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
