@@ -41,8 +41,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 29 hrs 47 mins
-
 CSHTML       7 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
 Other        7 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
 ```
