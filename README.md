@@ -35,8 +35,6 @@
 <p align="left">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYJKY&show_icons=true&theme=tokyonight)
-
-<h2>test</h2>
   
 <!--START_SECTION:waka-->
 
