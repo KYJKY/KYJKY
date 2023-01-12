@@ -37,10 +37,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYJKY&show_icons=true&theme=tokyonight)
   
 <!--START_SECTION:waka-->
-
-```text
-CSHTML       7 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-Other        7 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-```
-
 <!--END_SECTION:waka-->
