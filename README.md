@@ -39,6 +39,40 @@
   
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%207%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-598-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 87 Contributions in the Year 2023
+ > 
+> 📦 231.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I Mostly Code in C#** 
+
+```text
+C#                       7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/KYJKY/KYJKY/master/charts/bar_graph.png) 
+
+
+ Last Updated on 14/01/2023 18:38:35 UTC
 <!--END_SECTION:waka-->
 
 
